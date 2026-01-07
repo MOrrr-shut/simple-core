@@ -14,4 +14,5 @@ ld -m elf_i386 -T linker.ld -o kernel.bin *.o
 qemu-system-i386 -kernel kernel.bin
 
 Мой билд:
+
 <img width="371" height="274" alt="image" src="https://github.com/user-attachments/assets/f70c29ed-30fd-42d1-8c23-a84b7be50fdf" />
